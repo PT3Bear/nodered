@@ -1,0 +1,1 @@
+[{"id":"fad3695a.d06568","type":"http request","z":"e89c624e.007a7","name":"","method":"GET","ret":"txt","paytoqs":false,"url":"http://api.mediatek.com/mcs/v2/devices/DT0UhJoA/datachannels/Humidity/datapoints.csv","tls":"","proxy":"","authType":"","x":460,"y":240,"wires":[["11ebeaa3.063405","a11fc094.ad4e2"]]}]
